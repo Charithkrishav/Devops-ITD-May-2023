@@ -10,7 +10,7 @@ spec:
     targetRevision: main
     path: Kubernetes/argo/yamls
   destination:
-    server: https://13.201.8.19:6443
+    server: https://100.25.142.163:32618
     namespace: default
   syncPolicy:
     syncOptions:
